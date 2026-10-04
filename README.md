@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="https://ecommerce-microservices-2gs9.onrender.com/">
+    <img src="https://boss974829.github.io/readme/commerce.gif" width="100%" alt="Commerce" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://ecommerce-microservices-2gs9.onrender.com/"><strong>Open the shop →</strong></a>
+</p>
+
 # Shopping Bazar Ecommerce Microservices      **https://ecommerce-microservices-2gs9.onrender.com/**
 
 Run `npm start`, then visit **http://localhost:4000**. You can also double-click `frontend/open-website.bat`.
